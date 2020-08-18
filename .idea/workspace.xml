@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80e7ffb2-1e8d-47f0-8732-e6655ac2d6da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Figure_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Figure_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Figure_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Figure_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cihuiyun.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/csv_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/info.csv" beforeDir="false" afterPath="$PROJECT_DIR$/info.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/spider_wechat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/spider_wechat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,10 +13,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/spider_wechat$spider_wechat.coverage" NAME="spider_wechat Coverage Results" MODIFIED="1597673657205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/spider_wechat$csv_test.coverage" NAME="csv_test Coverage Results" MODIFIED="1547023432008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/spider_wechat$cihuiyun.coverage" NAME="cihuiyun Coverage Results" MODIFIED="1547023391400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/spider_wechat$spider_wechat.coverage" NAME="spider_wechat Coverage Results" MODIFIED="1547023776289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/spider_wechat$test.coverage" NAME="test Coverage Results" MODIFIED="1547023498207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spider_wechat$cihuiyun.coverage" NAME="cihuiyun Coverage Results" MODIFIED="1547023391400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -43,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spider_wechat.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-139">
-              <caret line="60" column="43" selection-start-line="60" selection-start-column="43" selection-end-line="60" selection-end-column="43" />
+            <state relative-caret-position="190">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
               <folding>
                 <element signature="e#224#233#0" expanded="true" />
               </folding>
@@ -76,9 +70,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="3" />
-    <option name="y" value="4" />
-    <option name="width" value="1382" />
-    <option name="height" value="745" />
+    <option name="y" value="3" />
+    <option name="width" value="1383" />
+    <option name="height" value="746" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -102,6 +96,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,13 +108,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -253,24 +247,23 @@
       <option name="presentableId" value="Default" />
       <updated>1516257371760</updated>
       <workItem from="1547022686649" duration="1147000" />
+      <workItem from="1597673628272" duration="622000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1147000" />
+    <option name="totallyTimeSpent" value="1769000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1709531" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17356043" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.12602292" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39964157" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.27422002" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -279,26 +272,22 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.57799673" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.3251634" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" sideWeight="0.5012531" side_tool="true" weight="0.32980332" />
-      <window_info anchor="right" id="Database" sideWeight="0.49874687" weight="0.32980332" />
-      <window_info active="true" anchor="right" id="SciView" sideWeight="0.49874687" visible="true" weight="0.18532526" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Data View" order="3" visible="true" weight="0.32980332" />
+      <window_info active="true" anchor="right" id="SciView" order="4" sideWeight="0.49874687" visible="true" weight="0.18491484" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="5" sideWeight="0.5012531" side_tool="true" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="6" sideWeight="0.49874687" weight="0.32980332" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/Python3.6_2/Lib/site-packages/wordcloud/wordcloud.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-106">
-          <caret line="569" selection-start-line="569" selection-end-line="569" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/Python3.6_2/Lib/site-packages/wordcloud/wordcloud.py" />
     <entry file="file://$USER_HOME$/Desktop/word_cloud/word_cloud-master/wordcloud/wordcloud.py" />
     <entry file="file://$USER_HOME$/Desktop/word_cloud/word_cloud-master/setup.py" />
     <entry file="file://$PROJECT_DIR$/data.csv" />
@@ -306,43 +295,13 @@
     <entry file="file://$PROJECT_DIR$/alice.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://D:/Python3.6_2/Lib/site-packages/pandas/core/generic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="3621" column="38" selection-start-line="3621" selection-start-column="38" selection-end-line="3621" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/Python3.6_2/Lib/site-packages/pandas/core/generic.py" />
     <entry file="file://$PROJECT_DIR$/splitData.csv" />
-    <entry file="file://$PROJECT_DIR$/Figure_2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Figure_3.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Figure_4.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cihuiyun.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
-          <folding>
-            <element signature="e#219#250#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/csv_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="51" column="35" lean-forward="true" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
-          <folding>
-            <element signature="e#219#229#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Figure_2.png" />
+    <entry file="file://$PROJECT_DIR$/Figure_3.png" />
+    <entry file="file://$PROJECT_DIR$/Figure_4.png" />
+    <entry file="file://$PROJECT_DIR$/cihuiyun.py" />
+    <entry file="file://$PROJECT_DIR$/csv_test.py" />
     <entry file="file://$PROJECT_DIR$/info.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -350,19 +309,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Figure_1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-          <folding>
-            <element signature="e#215#246#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Figure_1.png" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/data.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -372,8 +320,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spider_wechat.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-139">
-          <caret line="60" column="43" selection-start-line="60" selection-start-column="43" selection-end-line="60" selection-end-column="43" />
+        <state relative-caret-position="190">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           <folding>
             <element signature="e#224#233#0" expanded="true" />
           </folding>
